@@ -31,6 +31,8 @@
 /*****************************************************************************/
 
 #include <algorithm>
+#include <vector>
+#include <numeric>
 #include <iostream>
 #include <stdexcept>
 #include <opencv2/opencv.hpp>

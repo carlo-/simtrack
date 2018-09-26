@@ -33,6 +33,9 @@
 #include <multi_rigid_tracker.h>
 #include <stdexcept>
 #undef Success
+#include <vector>
+#include <algorithm>
+#include <numeric>
 #include <Eigen/Geometry>
 #include <utilities.h>
 #include <utility_kernels.h>

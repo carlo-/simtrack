@@ -31,6 +31,9 @@
 /*****************************************************************************/
 
 #include <d_multiple_rigid_pose_sparse.h>
+#include <vector>
+#include <algorithm>
+#include <numeric>
 #include <GL/gl.h>
 #include <sys/time.h>
 #include <cstdio>

@@ -33,6 +33,9 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
+#include <vector>
+#include <algorithm>
+#include <numeric>
 #include <stdexcept>
 #include <boost/filesystem.hpp>
 #include <sensor_msgs/Image.h>
